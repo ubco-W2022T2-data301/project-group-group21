@@ -4,6 +4,9 @@ Add a vision for what you want your project to look like in the end here... Feel
 
 You are welcome to update the vision as your project evolves and changes.
 
+
+Our project vision is to analyze the US SEC Mutual Fund database to obtain meaningful insights regarding performance and volitality of the funds for investors, such as ourselves.
+
 Creating a project vision statement is an essential aspect of good project planning.
 In this section, I will be referencing [Dovile Misevičiūtė's excellent article](https://teamhood.com/project-management/project-vision-statement-make-sure-it-works/) on project vision statements.
 Dovile is an employee at [Teamhood](https://teamhood.com) (a project management software company) and describes the purpose of a project vision statement: 
@@ -30,4 +33,4 @@ Dovile's article offers a few suggestions to consider when writing your project 
 
 ## Contracted Grade
 
-For this project, we agree to contract for a { A+/A/B/C }.
+For this project, we agree to contract for a { A }.
