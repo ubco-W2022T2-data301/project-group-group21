@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 21 - Analysis of Airbnb Data Across 3 major Cities
 
 - Your title can change over time.
 
@@ -8,7 +8,15 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Who: The company that provided this data is inside airbnb which is a website that contains various airbnb databases
+
+What: Our data is comprised of various information relating to airbnb bookings in Mexico city, Tokyo, and Montreal, such as price, availability, room type and number of reviews
+
+When: Our data was collected from the years 2015 to 2022. 
+
+Why: We believe the purpose of our data set is to provide information to potential users of airbnb in order to gain deeper insights as to optimal locations to utilize airbnb.
+
+How: Our data was collected by pulling data from the airbnb website.
 
 ## Describe your dataset in about 150-200 words
 
