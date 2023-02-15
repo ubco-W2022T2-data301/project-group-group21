@@ -1,4 +1,4 @@
-# Group 21 - Analysis of Airbnb Data Across 3 major Cities
+# Group 21 - Analysis of Airbnb Data Across 3 Major Cities
 
 - Your title can change over time.
 
