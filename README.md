@@ -7,6 +7,10 @@
 Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
+Air bnb data that summarizes price, neighborhood, review, and availability information for Air bnb rental places in Mexico, Montreal, and Tokyo. We are interested in exploring the correlations between the various data offered in this dataset to figure out our research questions, such as exploring the cheapest Air bnb rental spot, the correlation between price and rating, the average pricing of each city, and price versus size correlation. In terms of our interest in the topic, we are hoping that by visualizing the above mentioned data, we are able to better plan future trips around booking through airbnb in order to obtain the highest accommodation value when visiting Mexico, Tokyo, and Montreal in the future With the raw data being downloaded in separate cities, we believe that it is also possible to conduct analysis on each individual cities, which may offer further insights for our, or our analysis users', travel plan to Mexico, Montreal, and Tokyo.
+
+
+## Describe your dataset in about 150-200 words
 
 ### Who: 
 The company that provided this data is Inside Airbnb which is a website that contains various airbnb databases. Inside Airbnb is an organization that provides various data sets from multiple cities around the world such as Belgium, Athens, Boston etc. The data sets provided range from listings, neighbourhoods, and reviews and is widely available to the public.
@@ -26,11 +30,6 @@ We believe the purpose of our data set is to provide information to potential us
 
 ### How: 
 We selected our data from an array of csv files from insideairbnb.com. We then extracted our three data files with information from three cities onto our local repositories before pushing it to the group repository.
-
-
-## Describe your dataset in about 150-200 words
-
-Air bnb data that summarizes price, neighborhood, review, and availability information for Air bnb rental places in Mexico, Montreal, and Tokyo. We are interested in exploring the correlations between the various data offered in this dataset to figure out our research questions, such as exploring the cheapest Air bnb rental spot, the correlation between price and rating, the average pricing of each city, and price versus size correlation. In terms of our interest in the topic, we are hoping that by visualizing the above mentioned data, we are able to better plan future trips around booking through airbnb in order to obtain the highest accommodation value when visiting Mexico, Tokyo, and Montreal in the future With the raw data being downloaded in separate cities, we believe that it is also possible to conduct analysis on each individual cities, which may offer further insights for our, or our analysis users', travel plan to Mexico, Montreal, and Tokyo.
 
 ## Team Members
 
