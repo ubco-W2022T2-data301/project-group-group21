@@ -12,7 +12,7 @@ def load_and_process(path='../data/raw/montreal_listings.csv'):
     
 #(Set parameters for minimum_nights, price)
     df2 = (
-        df1.loc[(df1['minimum_nights'] >= 1) & (df_clean2['minimum_nights'] <= 14)]
+        df1.loc[(df1['minimum_nights'] >= 1) & (df1['minimum_nights'] <= 14)]
         .loc[(df1['price'] > 0)]
         .loc[(df1['price'] < 800)]
     )
