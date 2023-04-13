@@ -120,15 +120,21 @@ You can [find the full analysis notebook here, including the code and the data h
 -	My research question is focused on finding out the neighbourhood within Montreal which offers the best prices compared to the minimum nights stay required per rental. 
 
 **Figure 3.1**
+
 ![Montrealbar](images/Analysis3/montreal_plot1.png)
+
 I used this barplot as my first tool in answering my research question. I’ve chosen to focus on the top 3 neighbourhoods based on the number of listings because it should give me a greater sample size. The plot identifies that the top 3 neighbourhoods based on number of listings are: **Ville Marie, Le Plateau-Mont-Royal, and Rosemont-La-Petite-Patrie.** According to the plot, **Ville-Marie** has the greatest number of listings at around 3000 and gives me the initial belief that I will find the best price per night by minimum nights stay in this neighbourhood.
 
 **Figure 3.2**
+
 ![Montrealmap](images/Analysis3/montreal_plot2.png)
+
 After identifying the top 3 neighbourhoods I wanted to get a visual representation to see the plots on a map and where they are located in respect to the rest of Montreal. This is important for my research question because the location of the neighbourhood may affect the price based on certain factors such as how close it is to the city center, how close it is to water, etc. After looking at the map, we can see that the plots are most abundant in the Ville-Marie Neighbourhood and the units are located near the water and span across the center.
 
 **Figure 3.3**
+
 ![MontrealRidge](images/Analysis3/montreal_plot3.png)
+
 For my final plot, I compared the price per nights stay vs the minimum nights stay per rental against the number of units per neighbourhood. What this plot is trying to show is the neighbourhood which contains the highest concentration of listings towards a lower price. In this case, it appears that all 3 neighbourhoods have fairly similar curves, however, the volume of listings for Ville-Marie is greater and has more listing skewed towards a lower price.
 
 ## Conclusion
